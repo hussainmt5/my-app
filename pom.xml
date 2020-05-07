@@ -10,6 +10,9 @@
 	<!-- Demo on Github Webhooks-->
 
 	<url>http://maven.apache.org</url>
+<properties>
+  <sonar.buildString>http://34.229.39.72:9000/</sonar.buildString>
+  </properties>
 
 	<dependencies>
 		<dependency>
